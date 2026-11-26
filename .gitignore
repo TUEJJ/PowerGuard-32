@@ -1,0 +1,5 @@
+# Arduino build output (contains local build paths)
+*.bin
+*.elf
+*.map
+build/
